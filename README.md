@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Software engineer at ALX]** with experience in **[C language]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Software engineer student at ALX]** with experience in **[C language]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[JS, CSS and HTML]**
 - 🔭 Working on: **[Becoming a fullstack developer]**
