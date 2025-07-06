@@ -1,4 +1,4 @@
-# Hi there, I'm Chaynmae AKA virginballoon ! 👋
+# Hi there, I'm Chaymae AKA virginballoon ! 👋
 
 
 ## About Me 🚀
